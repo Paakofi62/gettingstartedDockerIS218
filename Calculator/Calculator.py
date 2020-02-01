@@ -14,4 +14,6 @@ class Calculator:
     def sqaureroot(self,a):
         import math
         return (math.sqrt(a))
+    def sqared(self,a):
+        return a**2
 
