@@ -11,9 +11,9 @@ class Calculator:
         return a*b
     def division(self, a, b):
         return a/b
-    def sqaureroot(self,a):
+    def sqaureRoot(self,a):
         import math
         return (math.sqrt(a))
-    def sqared(self,a):
+    def squared(self,a):
         return a**2
 
